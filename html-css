@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<index class="css"></index>
+<linkhre="style.css" rel="stylesheet">
+    </linkhre>
+
+    <head>
+
+        <style>
+            body {
+                background-color: rgb(255, 255, 255);
+            }
+
+            h1 {
+                color: rgb(76, 85, 211);
+                border: 1px solid #f5f5f5
+            }
+
+            p {
+                font-size: 14px;
+                font-style: italic
+            }
+
+            h2 {
+                color: red;
+
+            }
+
+            h3 {
+                color: rgb(3, 3, 121);
+            }
+            
+        </style>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="shortcut icon" href="l" type="image/x-icon">
+        <title>Clínica de Saúde Renata Mandes </title>
+        
+        
+    </head>
+
+    <body>
+
+
+        <h1>Bem vindo!</h1>
+        <h2>EM CONSTRUÇÃO </h2>
+        <hr>
+        <h3>Nos acompanhe também em nossas redes sociais </h3>
+        <p>Facebook: CSRM<br>
+            Instagram: @CSRM</p>
+        <h3> Faça seu agendamento <br></h3>
+        <p> Whatsapp:(21) 99511-2353 <br>
+            Telefone:(21)24921651
+        </p>
+        <hr>
+        <h3>Estamos prontos para atender você!</h3>
+        <button>Quem somos</button> <button>Áreas de atuação</button> <button>Clínica</button><button>Localização</button>
+        <button>Contato</button>
+        <p> A CSRM possui profissionais
+            especializados para seu tratamento. <br>
+            Com consultas a preços acessíveis e o melhor atendimento.</p>
+           
+           <hr>
+        <img src="logoImg.png" alt="Imagem" height="300" width="300">
+          <h3>Serviços:</h3>
+          <p>Fisioterapia Geral<br>
+             Neurofuncional<br>
+             Pélvica <br>
+             Gerontologia<br>
+             Nutrição<br>
+             Acupuntura<br>
+             Dermatofuncional<br>
+             Psicologia <br>
+             Pilates<br>
+             RPG<br>
+             Quiropraxia</p> 
+          <hr> 
+          <h3>CONHEÇA NOSSA CLÍNICA </h3>
+          <p>VÍDEO DA CLÍNICA</p>
+          <h3>LOCALIZAÇÃO</h3>
+          <h3>CONTATO</h3>
+          <button> Nome: <input> </button>
+          <hr>
+          <button>E-mail: <input> </button>
+          <button>Telefone: <input> </button>
+          <button>Serviço desejado: <input> </button>
+          <button>Mensagem: <input></button>
+    </body>
+    </style>
+
+</html>
